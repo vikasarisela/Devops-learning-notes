@@ -24,3 +24,5 @@ APN Technology Partner - APN Technology Partners provide hardware, connectivity 
 
 
 C:\Users\User\Devops-learning-notes\images\first.jpg
+
+Devops-learning-notes\images\images\first.jpg
